@@ -218,5 +218,6 @@ input[type=submit]{
 .span1 {
     display: block;
     margin: auto;
+    
     text-align: center;
 }
