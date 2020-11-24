@@ -165,19 +165,19 @@ iframe {
     padding: 10px;
 }
 .form{
-    width: 48%;
+    width: 100%;
     float: left;
     height: 385px;
     border: 1px solid #d8d8d8;
     margin-right: 10px;
 }
 .col25 {
-    width: 25%;
+    width: 100%;
     float: left;
     margin-top: 6px;
 }
 .col75 {
-    width: 75%;
+    width: 100%;
     float: left;
     margin-top: 6px;
 }
@@ -217,6 +217,6 @@ input[type=submit]{
 }
 .span1 {
     display: block;
-    margin: 10px;
+    margin: auto;
     text-align: center;
 }
